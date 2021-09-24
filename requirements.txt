@@ -1,0 +1,5 @@
+   
+aiogram
+aiohttp
+aiofiles
+python-dotenv
